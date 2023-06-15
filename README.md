@@ -12,6 +12,10 @@ The program prompts the user to enter a URL of the website they want to download
 2. Compile the Java source file.
 3. Run the program in either an IDE or your command line.
 
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
